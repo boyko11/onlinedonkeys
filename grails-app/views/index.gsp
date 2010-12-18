@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Welcome to Grails</title>
+        <title>Onlinedonkeys</title>
         <meta name="layout" content="main" />
         <style type="text/css" media="screen">
         h2 {
